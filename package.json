@@ -1,0 +1,24 @@
+{
+  "name": "@htrammell/spongebobcase",
+  "version": "2.1.0",
+  "description": "Testing how yo create an NPM package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/huntertrammell/spongebobCase.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/huntertrammell/spongebobCase/issues"
+  },
+  "homepage": "https://github.com/huntertrammell/spongebobCase#readme",
+  "devDependencies": {
+    "typescript": "^4.7.4"
+  }
+}
