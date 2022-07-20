@@ -1,6 +1,6 @@
 {
   "name": "@htrammell/spongebobcase",
-  "version": "3.0.0",
+  "version": "3.1.0",
   "description": "Testing how yo create an NPM package",
   "main": "lib/index.js",
   "scripts": {
