@@ -21,10 +21,5 @@
   "homepage": "https://github.com/huntertrammell/spongebobCase#readme",
   "devDependencies": {
     "typescript": "^4.7.4"
-  },
-  "dependencies": {
-    "i": "^0.3.7",
-    "my-awesome-greeter": "^1.0.2",
-    "npm": "^8.14.0"
   }
 }
